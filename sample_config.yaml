@@ -1,0 +1,15 @@
+adapt_method: noising
+augmentation: randaugment
+augmentation_params:
+  m: 1
+  n: 1
+dataset: visda
+episodic: false
+freeze_classifier: true
+log_dir: ./logdir
+loss: entropyjsd
+num_steps: 5
+optim_parameters:
+  lr: 0.0001
+optimizer: SGD
+train_batch_size: 64
