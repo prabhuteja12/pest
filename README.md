@@ -1,6 +1,6 @@
 # Code for Test time Adaptation through PErturbation robuSTness (PEST) 
-Code release for paper [**Test time Adaptation through Perturbation Robustness**](https://arxiv.org/pdf/2110.10232.pdf)
-by Prabhu Teja S, and [Fran&ccedil;ois Fleuret](https://fleuret.org/francois/) to be published at NeurIPS 2021 Workshop on
+Code release for paper [**Test time Adaptation through Perturbation Robustness**](https://openreview.net/forum?id=GbBeI5z86uD)
+by [Prabhu Teja S](https://prabhuteja12.github.io/), and [Fran&ccedil;ois Fleuret](https://fleuret.org/francois/) to be published at NeurIPS 2021 Workshop on
 Distribution Shifts.
 
 
